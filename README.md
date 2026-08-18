@@ -27,7 +27,7 @@ through the LCD.
 
 ## Hardware Setup
 
-<img src="images/arduino-lock.jpg" width="500">
+<img src="images/IMG_1297.jpeg" width="500">
 
 ## Key Concepts
 
