@@ -27,7 +27,7 @@ through the LCD.
 
 ## Hardware Setup
 
-
+![Full Hardware Setup](images/IMG_1297.jpeg)
 
 ## Key Concepts
 
