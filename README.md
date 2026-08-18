@@ -42,3 +42,4 @@ through the LCD.
 ## Source Code
 
 The Arduino program is available in:
+'password_lock.ino'
